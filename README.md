@@ -2,7 +2,9 @@
 ####  Web Developer
 ![ Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHemMEosPIQEg/profile-displaybackgroundimage-shrink_200_800/0/1638166731941?e=1643846400&v=beta&t=s4emfF5UJWA3EDxVoZG0-D7z3asBcJXUe87IKu6RgJM)
 
-I'm Programming Hero's Student. Work Hard | Stay Humble | Spread Happiness | Make things Happen | ♦BG: O+(ve)♦
+My name is Minhaz Uddin Rafi. I am Front End Developer based in Bangladesh. I describe myself as a passionate
+developer who loves coding, Open Source, and the web platform, passion for responsive website design. Would like to
+build a successful career in the field of web development.
 
 Skills:  REACT / JS / HTML / CSS/ Bootstrap/ Node Js /Mongo DB
 
